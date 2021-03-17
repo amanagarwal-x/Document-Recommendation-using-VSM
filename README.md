@@ -1,4 +1,4 @@
-# Document-Recommendation-using-VSM
+# Document Recommendation using Vector Space Model
 
 A Document Recommendation Program built in Python.<br><br>
 This program recommends the most appropriate Recipe from the collection of Recipe documents according to the Query (input) of the user.<br>
